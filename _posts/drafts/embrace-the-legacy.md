@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "Embrace the legacy"
+title: Embrace the legacy
 date: 2021-01-07 20:29:33 +0100
-categories: programming
+categories: [opinion]
+tags: [legacy]
 ---
-Legacy code. Sooner or later, you encounter the beast. I wish someone told me from the start how to deal with it, instead of wasting all that time against it... This post is an opinionated attempt to share my thoughts; maybe it will spare some of yours.
+Any professional developer deals eventually with legacy code. Some despise it and push for a full rewriting whenever possible. Others just accept it and get the work done. **Here are some tips to make the best of legacy code, which might make your job much more enjoyable**.
 
-Originally defined as *code that relates to no-longer supported system or technology*, legacy code is generally understood as *code inherited from someone else*. Some go further in saying it is *code we are afraid to change*, like the almighty Michael Feathers who simply defines it as *code without tests*.
+Legacy code can be defined as "outdated code" or "code from someone else". Michael Feathers considers any "code without test" as legacy. Whatever the definition, **legacy code is code we don't wanna change because of it could break things**.
 
-**Whichever the definition, legacy code is code we're reluctant to work with.**
+How can we tackle this?
 
-![Legacy code can't be hard](/assets/img/legacy-code-comic.gif){:class="img-responsive"}
+1 deal with it
+2 prevent it
 
 # Accept the legacy
 
