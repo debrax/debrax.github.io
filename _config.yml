@@ -18,14 +18,17 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Definition of Done                          # the main title
+# the main title
+title: Léonard Beck
 
-tagline: Programming blog by some french developer   # it will display as the sub-title
+# the sub-title
+tagline: French web developer, team facilitator. Runner, choir singer, board gamer, father of two.
 
-description: >-                        # used by seo meta and the atom feed
-  Programming blog by some french developer.
+# used by seo meta and the atom feed
+description: >-
+  Humble french software engineer.
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+# fill in the protocol & hostname for your site
 url: 'https://debrax.github.io'
 
 github:
@@ -37,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Debrax
+  name: Léonard Beck
   email: leonard.beck@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
