@@ -1,7 +1,7 @@
 ---
 title: Yet another junior developer guide
-categories: [Opinion]
-tags: [career, pragmatism]
+categories: [Career]
+tags: [opinion, pragmatism]
 ---
 
 Congrats, you just landed your first job and discovered you gotta work on some dreaded legacy module.
