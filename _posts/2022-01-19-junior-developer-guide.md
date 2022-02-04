@@ -1,5 +1,5 @@
 ---
-title: Yet another junior developer guide
+title: Opinionated junior developer guide
 categories: [Career]
 tags: [opinion, pragmatism]
 ---
@@ -12,7 +12,7 @@ Classic [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Sp
 
 > I'm stuck. Missing something.
 
-We all are at some point. First, check on the internal docs, Google or Stackoverflow. Then ask someone. **Don't stay stuck, be pro-active.** If you're afraid to waste the time of your fellows, consider that the quicker you get the knowledge, the earlier they can rely on you. Be a good guy, update the doc if that was tricky (a README in the source can be enough).
+We all are at some point. First, check on the internal docs, Google or Stackoverflow. Then ask someone. **Don't stay stuck, be pro-active.** If you're afraid to waste the time of your fellows, consider that the quicker you get the knowledge, the earlier they can rely on you. Be a good guy, update the doc if that was tricky (a README in the source is enough).
 
 > Business? Whatever.
 
