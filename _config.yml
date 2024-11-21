@@ -22,11 +22,11 @@ timezone: Europe/Paris
 title: Léonard Beck
 
 # the sub-title
-tagline: French web developer, team facilitator. Runner, choir singer, board gamer, father of two.
+tagline: Software developer, runner, choir singer, board gamer, father of three, french.
 
 # used by seo meta and the atom feed
 description: >-
-  Humble french software engineer.
+  Humble french software developer.
 
 # fill in the protocol & hostname for your site
 url: 'https://debrax.github.io'
