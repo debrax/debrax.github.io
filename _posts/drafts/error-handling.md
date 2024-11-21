@@ -1,3 +1,4 @@
+2022-01-21
 ---
 title: About error handling
 categories: [Design]

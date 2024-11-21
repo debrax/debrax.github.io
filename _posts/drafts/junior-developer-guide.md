@@ -1,3 +1,4 @@
+2022-01-19
 ---
 title: Opinionated junior developer guide
 categories: [Career]
